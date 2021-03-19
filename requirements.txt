@@ -13,7 +13,7 @@ funcsigs==1.0.2
 idna==2.0
 ipaddress==1.0.16
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jsonpatch==1.10
 jsonpointer==1.9
 Markdown==2.6.6
